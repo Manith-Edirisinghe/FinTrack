@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">FinTrack</string>
+
+    <string name="AddIncomebtn">Add Income</string>
+    <string name="AddExpensebtn">Add Expense</string>
+    <string name="Category">Select Category</string>
+    <string-array name="ExpenseCategory_array">
+
+        <item>Select a category</item>
+        <item>Food</item>
+        <item>Electricity</item>
+        <item>Rent</item>
+        <item>Healthcare</item>
+        <item>Groceries</item>
+        <item>Shopping</item>
+        <item>Other</item>
+
+    </string-array>
+
+    <string name="TotalExpenses">Total Expenses: Rs: %1$.2f</string>
+    <string name="TotalFood">Food:Rs: %1$.2f </string>
+    <string name="TotalElectricity">Electricity: Rs: %1$.2f</string>
+    <string name="TotalRent">Rent: Rs: %1$.2f</string>
+    <string name="TotalHealthcare">Healthcare: Rs: %1$.2f</string>
+    <string name="TotalGroceries">Groceries: Rs: %1$.2f</string>
+    <string name="TotalShopping">Shopping: Rs: %1$.2f</string>
+    <string name="TotalOther">Other: Rs: %1$.2f</string>
+    <string name="RemainingBudget">Remaining Budget: Rs: %1$.2f</string>
+
+
+    <string-array name="IncomeCategory_array">
+
+        <item>Select a category</item>
+        <item>Bonus</item>
+        <item>Salary</item>
+        <item>Gift</item>
+        <item>Business Income</item>
+        <item>Other</item>
+
+    </string-array>
+
+    <string name="Rs">Rs.</string>
+
+    <string name="TotalIncome">Total Income: Rs: %1$.2f</string>
+    <string name="TotalBonus">Bonus: Rs: %1$.2f</string>
+    <string name="TotalSalary">Salary: Rs: %1$.2f</string>
+    <string name="TotalGift">Gift: Rs: %1$.2f</string>
+    <string name="TotalBuisnessIncome">Buisness Income: Rs: %1$.2f</string>
+    <string name="TotalIncomeOther">Other: Rs: %1$.2f</string>
+
+    <string name="SetBudget">Currently set Budget-:Rs: %1$.2f</string>
+
+
+    <string name="Editbtn">Edit</string>
+    <string name="Deletetbtn">Delete</string>
+    <string name="ExpenseHistory">Expense History</string>
+    <string name="IncomeHistory">Income History</string>
+    <string name="hintTitle">Enter title</string>
+    <string name="hintDate">Enter Date</string>
+    <string name="hintAmountExpense">Enter amount spent on expense</string>
+    <string name="hintAmountIncome">Enter amount of Income</string>
+    <string name="viewExpensebtn">View all Expenses</string>
+    <string name="viewIncomebtn">View all Income</string>
+    <string name="SaveBtn">Save</string>
+    <string name="BackBtn">Back</string>
+    <string name="SaveIncome">Save Income</string>
+    <string name="SaveExpense">Save Expense</string>
+    <string name="SaveChanges">Save Expense</string>
+
+
+    <string name="Title">Title: %1$s</string>
+    <string name="Categoryy">Category: %1$s</string>
+    <string name="Amount">Amount: %1$d</string>
+    <string name="Date">Date: %1$s</string>
+
+    <string name="EditExpense">Edit Expense</string>
+    <string name="EditTitle">Edit Title</string>
+    <string name="EditCategory">Select Category</string>
+    <string name="EditDate">Date:</string>
+    <string name="EditAmount">Enter Amount</string>
+
+    <string name="Addtransaction">Add Transaction</string>
+    <string name="Welcome">Welcome back!</string>
+    <string name="Manith">Manith Edirisinghe</string>
+    <string name="headerdescription">Track all your Finances</string>
+
+    <string name="setBudgetbtn">Set budget</string>
+    <string name="Currentbudget">Current budget</string>
+
+    <string name="budgetdialog">Set your preferred budget-:</string>
+    <string name="budgethint">Enter budget amount</string>
+    <string name="cancelBtn">Cancel</string>
+    <string name="importexpensebtn">Import Expense Data</string>
+    <string name="importincomebtn">Import Income Data</string>
+    <string name="downloadbtn">Download</string>
+
+    <string name="expense_summary">%1$s: Rs. %2$.2f</string>
+
+</resources>
